@@ -1,0 +1,74 @@
+.ota{
+    width: 500px;
+    height: 300px;
+    background-color: pink;
+    border:4px solid darkmagenta
+}
+.bola{
+    width: 250px;
+    height: 150px;
+    background-color: blueviolet;
+    border:3px solid blue;
+    margin-top: 75px;
+    margin-left: 120px;
+   
+}
+.box div{
+    width: 300px;
+    height: 50px;
+}
+
+.qora{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px 100px 20px 100px;
+    display: inline-block;
+}
+.qora p{
+    text-align: center;
+}
+.yashil{
+    background-color:green;
+    color: aliceblue;
+    padding: 20px 100px 20px 100px;
+    display: inline-block;
+}
+.yashil p{
+    text-align: center;
+}
+.pushti{
+    background-color:pink;
+    color: aliceblue;
+    padding: 20px 100px 20px 100px;
+    display: inline-block
+}
+.pushti p{
+    text-align: center;
+}
+.qizil{
+    background-color:red;
+    color: aliceblue;
+    padding: 20px 100px 20px 100px;
+    display: inline-block
+}
+.qizil p{
+    text-align: center;
+}
+.violet{
+    background-color:violet;
+    color: aliceblue;
+    padding: 20px 100px 20px 100px;
+    display: inline-block
+}
+.violet p{
+    text-align: center;
+}
+.gold{
+    background-color:gold;
+    color: aliceblue;
+    padding: 20px 100px 20px 100px;
+    display: inline-block
+}
+.gold p{
+    text-align: center;
+}
